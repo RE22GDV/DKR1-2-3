@@ -1,3 +1,6 @@
+
+//Gandzuk Dmytro RE-22 DKR3 - Variant 5
+
 #include <stdio.h>
 #include <stdlib.h>
 
